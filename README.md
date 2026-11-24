@@ -1,8 +1,8 @@
 # Make the AI Judge Laugh: Developer Excuses
 
-[![Bounty](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3.svg)](https://make.fun/competitions/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3)
-[![Rank](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3/aechoasisvers-a11y/makefun-developer-excuses/rank.svg)](https://make.fun/competitions/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3)
-[![Reward](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3/aechoasisvers-a11y/makefun-developer-excuses/reward.svg)](https://make.fun/competitions/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3)
+[![Bounty](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3.svg)](https://make.fun/bounty/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3)
+[![Rank](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3/aechoasisvers-a11y/makefun-developer-excuses/rank.svg)](https://make.fun/bounty/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3)
+[![Reward](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3/aechoasisvers-a11y/makefun-developer-excuses/reward.svg)](https://make.fun/bounty/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3)
 
 One funny single-line excuse a developer gives when code breaks in production.
 
@@ -16,4 +16,4 @@ One funny single-line excuse a developer gives when code breaks in production.
 python3 main.py
 ```
 
-This writes the entry to `$MAKEFUN_OUTPUT_DIR/entry.txt` (default `/output/entry.txt`).
+Writes the line above to `/output/entry.txt` (88 characters, no trailing newline).
